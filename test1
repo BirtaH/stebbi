@@ -1,0 +1,7 @@
+import sys
+import numpy as np
+import pygame
+from pygame.locals import *
+
+#set up the colors
+WHITE = (255, 255, 255)
